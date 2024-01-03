@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on Ideas.
 - 🤔 I’m looking for help with opportunities.
 - 💬 Ask me about skills, strategies & pathways.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-AdityaNarayan29-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adityanarayan29/)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-AdityaNarayan29-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/srishty-rani-b749931ab/)
 - ⚡ In my free time I solve problems on My DSA Repo and read tech articles.
 
 
