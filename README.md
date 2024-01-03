@@ -16,7 +16,9 @@
 
 - 💬 Ask me about **skills,strategies & pathways**
 
-- 📫 How to reach me **srishty**
+- 📫 How to reach me : &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-SrishtyRani-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/srishty-rani-b749931ab/)
+- ⚡ In my free time I solve problems on My DSA Repo and read tech articles.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
